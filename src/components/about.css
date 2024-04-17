@@ -1,0 +1,85 @@
+.about{
+    height: 712px;
+    display: flex;
+    width: 100%;
+flex-direction: column;
+margin-top: 30px;
+
+}
+.about_top{
+    display: flex;
+
+}
+.left{
+    width: 500px;
+    height: 580px;
+    
+}
+.gray{
+    width: 88%;
+    position: relative;
+    right: 20px;
+}
+.hand{
+    position: relative;
+bottom: 420px;
+width: 300px;
+}
+.middle{
+    height: 564px;
+    width: 700px;
+  
+}
+.middle img{
+    width: 720px;
+}
+
+
+.right img{
+    
+    width: 200px;
+}
+.bottom{
+    display: flex;
+    position: relative;
+    bottom: 250px;
+    
+    gap:450px
+}
+.bottom_left{
+    display: flex;
+    gap: 30px;
+    position: relative;
+    left:75px ;
+}
+.bottom_right{
+    display: flex;
+}
+
+ .yellow_bottom img{
+     width:300px ;
+    position: relative;
+    top: 50px;
+    
+}
+ .gray_bottom img{
+    
+    width:320px ; 
+}
+ 
+ .links img{ 
+    width: 30px;
+
+ } 
+
+ .dark_links{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top:10px;
+}
+.bird{
+    position: relative;
+    bottom: 37px;
+    
+}

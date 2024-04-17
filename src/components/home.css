@@ -1,0 +1,63 @@
+.Home{
+    height: 712px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -60px;
+}
+.home_left{
+    margin-top: 190px;
+    /* margin-left: 100px; */
+}
+.hello img{
+    width: 120px;
+    margin-right: 120px;
+}
+.anish img{
+    width: 245px;
+
+}
+.tag img{
+  width:320px ;  
+  margin-left: 70px;
+}
+.links_buttons{
+    display: flex;
+    margin-top: 100px;
+    gap: 60px;
+}
+.dark_links{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+}
+.bird{
+    position: relative;
+    bottom: 27px;
+    
+}
+.email_dark{
+    display: flex;
+    flex-direction: column;
+}
+
+.links_buttons .links img{
+     width: 30px;
+     height:250px ;
+}
+.buttons img{ 
+    width: 330px;
+    margin-left: -30px;
+ } 
+.home_right{
+    margin-top: 100px;
+}
+.home_right img{
+    width: 600px;
+}
+
+
+.home_right span img{
+    width: 20px;
+    height: 266px;
+}
